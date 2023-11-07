@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Chisomo Mjimapemba @Victor-M16
-- 👀 I’m interested in Machine Learning, Data Science and Full-Stack Engineering
-- 🌱 I’m currently learning Python, MySQL, NoSQL, php and React.js
+- 👀 I’m interested in Machine Learning, Electrical Engineering and Full-Stack Engineering
+- 🌱 I’m currently learning Java and MERN
 - 💞️ I’m looking to collaborate on any web development opportunities and data engineering/science opportunities
 - 📫 How to reach me: vcmjimapemba@gmail.com
 
