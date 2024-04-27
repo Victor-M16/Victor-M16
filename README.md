@@ -5,13 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/13/79/f9/1379f942c0a29d32801e556af352bdae.gif" />
 
 
-- 🔭 I’m currently working on **lemonade systems**
+- 🔭 I’m currently working on **myMunda**
 
-- 🌱 I’m currently learning **Spring, MERN, ReactNative**
+- 🌱 I’m currently learning **Spring, ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://victor-cm.vercel.app/](https://victor-cm.vercel.app/)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django and Electronics**
 
 - 📫 How to reach me **vcmjimapemba@gmail.com**
 
