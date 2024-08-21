@@ -32,9 +32,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victor-m16" alt="victor-m16" /></a> </p>
 
 
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-m16&show_icons=true&locale=en&layout=compact" alt="victor-m16" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-m16&" alt="victor-m16" /></p>
