@@ -9,7 +9,7 @@
 
 - 👨‍💻 Check out my [project portfolio.](https://victor-cm.vercel.app/)
 
-- 💬 Ask me about **Audio Machine Learning, Django, Electronics**
+- 💬 Ask me about **Audio Machine Learning, Telecoms, Django and Electronics**
 
 - 📫 Reach me at **vcmjimapemba@gmail.com**
 
