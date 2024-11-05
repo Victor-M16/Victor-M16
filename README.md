@@ -49,7 +49,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victor-m16&theme=onedark" alt="victor-m16" /></a> </p>
 
-
-
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-m16&theme=onedark" alt="victor-m16" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-m16&theme=onedark"/>
+</p>
