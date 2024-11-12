@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://medium.com/@vcmjimapemba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vcmjimapemba" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/victor-mjimapemba-75219919b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-mjimapemba-75219919b" height="30" width="40" /></a>
 <a href="https://kaggle.com/victormjimapemba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="victormjimapemba" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/leptonite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leptonite" height="30" width="40" /></a>
