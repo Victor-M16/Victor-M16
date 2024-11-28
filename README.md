@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Your favourite Malawian Imagineer</h3>
-<h4 align="center">Welcome to my github !</h3>
+<h3 align="center">Your friendly neighbourhood Malawian Imagineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/13/79/f9/1379f942c0a29d32801e556af352bdae.gif" />
 
